@@ -1,0 +1,184 @@
+  Testing all the methods below. 
+
+// showing adding method
+
+
+              Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 75
+75
+
+Added
+
+another Operation y
+
+            Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 76
+76
+
+Added
+
+another Operation y
+
+                 Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 77
+77
+
+Added
+
+another Operation y
+
+                 Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 78
+78
+
+Added
+
+another Operation y
+
+              Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 79
+79
+
+Added
+
+another Operation y
+
+// Now showing isFull Method 
+
+           Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice a
+
+Add what Score 80
+ Since Array is Full you can't add any more elements
+another Operation y
+
+// Now showing remove method 
+
+          Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice r
+
+
+Removed
+
+another Operation y
+
+// Now showing clear Method 
+
+            Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice c
+Name:Carlos
+Scores last to first before clearing the array: 78,  77,  76,  75,
+another Operation y
+
+// now showing isEmpty Method
+
+            Main Menu
+
+
+               (1)- (A)dd
+
+               (2)- (R)emove
+
+               (3)- (C)lear
+
+
+                      Enter Choice r
+Since Array is empty you can't remove any elements
+another Operation
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
